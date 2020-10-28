@@ -97,5 +97,571 @@
         "image": "https://i.imgur.com/Eo4ym8A.jpg",
         "theme": "Deception",
         "description": "Born from turmoil, the Rogue adapts quickly to any challenge. Although you appear aloof, you carry a painful past that you would rather avoid than confront, and you employ a whole host of subversive skills to do so."
-      }
+      },
+      {
+        "id": 11,
+        "reversed": true,
+        "numeral": "V",
+        "title": "The Rogue",
+        "image": "https://i.imgur.com/Eo4ym8A.jpg",
+        "theme": "Liberation",
+        "description": "Break the shackles that bind you by facing the challenge you have been evading. Once you do, you will feel lighter and more powerful than before."
+      },
+      {
+        "id": 12,
+        "reversed": false,
+        "numeral": "VI",
+        "title": "The Barbarian",
+        "image": "https://i.imgur.com/GrSlnYM.jpg",
+        "theme": "Strength",
+        "description": "The Barbarian’s unparalleled stamina and power are great forces; with them, you are fearless and confident. Protect others,and they will repay you withfriendship and loyalty."
+      },
+      {
+        "id": 13,
+        "reversed": true,
+        "numeral": "VI",
+        "title": "The Barbarian",
+        "image": "https://i.imgur.com/GrSlnYM.jpg",
+        "theme": "Exhaustion",
+        "description": "Your animal instincts and rage may be detrimental to you and your goals. Be careful not to push yourself too hard; you may end up exhausting your energy and in deeper water than you thought."
+      },
+      {
+        "id": 14,
+        "reversed": false,
+        "numeral": "VII",
+        "title": "The Druid",
+        "image": "https://i.imgur.com/ET1Ki3y.jpg",
+        "theme": "Fairness",
+        "description": "The Druid seeks harmony and justice. However, not everything is clearly good or evil. Delve into the murky waters of your situation to uncover the truths. Don’t be afraid to ask for guidance from others."
+      },
+      {
+        "id": 15,
+        "reversed": true,
+        "numeral": "VII",
+        "title": "The Druid",
+        "image": "https://i.imgur.com/ET1Ki3y.jpg",
+        "theme": "Negligence",
+        "description": "It is easier to remain neutralinstead of taking a stance for one side or another. But inaction can lead to imbalance. Seek out your voice and stand with those who need your assistance."
+      },
+      {
+        "id": 16,
+        "reversed": false,
+        "numeral": "VIII",
+        "title": "The Wizard",
+        "image": "https://i.imgur.com/dleRt8q.jpg",
+        "theme": "Manifestation",
+        "description": "The ingenious Wizard uses the tools at their disposal to create magic. Be resourceful and your magic will be greater than the sum of its parts. Concentrate on your goals and you will succeed."
+      },
+      {
+        "id": 17,
+        "reversed": true,
+        "numeral": "VIII",
+        "title": "The Wizard",
+        "image": "https://i.imgur.com/dleRt8q.jpg",
+        "theme": "Analysis Paralysis",
+        "description": "Presented with too manyoptions or paths, you may find yourself paralyzed with uncertainty. Concentrate on your main goal and don’t be afraid to step outsideof your comfort zone totake a risk."
+      },
+      {
+        "id": 18,
+        "reversed": false,
+        "numeral": "IX",
+        "title": "The Paladin",
+        "image": "https://i.imgur.com/RnW7Geb.jpg",
+        "theme": "Guidance",
+       "description": "The righteous Paladin is often guided by a higher power, but also trusts in her own wisdom and judgement. Seek guidance from others, but do what you think is right for yourself."
+      },
+      {
+        "id": 19,
+        "reversed": true,
+        "numeral": "IX",
+        "title": "The Paladin",
+        "image": "https://i.imgur.com/RnW7Geb.jpg",
+        "theme": "Vigilance",
+        "description": "At times you may be lost in the darkness of your own self-doubts, regrets, or guilt. The harshest judgement comes from within, so you must learn to forgive yourself, just as you would forgive others for their mistakes."
+      },
+      {
+        "id": 20,
+        "reversed": false,
+        "numeral": "X",
+        "title": "The Warlock",
+        "image": "https://i.imgur.com/vlahJqj.jpg",
+        "theme": "Connection",
+        "description": "The domineering Warlock is bound to a patron from whom they draw their power. Bind yourself to a mentor or a loved one who empowers you. Streng then your bond through mutual trust and communication."
+      },
+      {
+        "id": 21,
+        "reversed": true,
+        "numeral": "X",
+        "title": "The Warlock",
+        "image": "https://i.imgur.com/vlahJqj.jpg",
+        "theme": "Control",
+        "description": "A successful Warlock must balance their relationships well; imbalance will break bonds. If the bond is no longer beneficial for both parties, it is time to part ways and seek a new path forward."
+      },
+      {
+        "id": 22,
+        "reversed": false,
+        "numeral": "XI",
+        "title": "The Sorcerer",
+        "image": "https://i.imgur.com/zKfECEl.jpg",
+        "theme": "Intuition",
+        "description": "Magic comes naturally to the gifted Sorcerer. Leverage your innate talent and creative energy in your endeavors. Put your plans into action and watch the flame of your soul burn bright."
+      },
+      {
+        "id": 23,
+        "reversed": true,
+        "numeral": "XI",
+        "title": "The Sorcerer",
+        "image": "https://i.imgur.com/zKfECEl.jpg",
+        "theme": "Devastation",
+        "description": "If you lack a clear plan or goal, your untrained power may manifest haphazardly, causing destruction around you. Focus on your original vision and center yourself so that your magic will find its mark."
+      },
+      {
+        "id": 24,
+        "reversed": false,
+        "numeral": "XII",
+        "title": "The Adversary",
+        "image": "https://i.imgur.com/1ti7xFg.jpg",
+        "theme": "Growth",
+        "description": "Facing the Adversary will give you new experiences and insight. Engage obstacles you face without fear, especially if you have your allies there to support you."
+      },  {
+        "id": 25,
+        "reversed": true,
+        "numeral": "XII",
+        "title": "The Adversary",
+        "image": "https://i.imgur.com/1ti7xFg.jpg",
+        "theme": "Death",
+        "description": "You face the end of something important in your life. It may be a difficult and harrowing ordeal, but it will not last forever or be without purpose. Learn from the experience of pain and loss so that you may ascend to greater heights."
+      },
+      {
+        "id": 26,
+        "reversed": false,
+        "numeral": "XIII",
+        "title": "The Mystic",
+        "image": "https://i.imgur.com/kaVN0uE.jpg",
+        "theme": "Intuition",
+        "description": "The Mystic turns her mind’s eye toward others in order to find the answers she seeks. Trust your insight and the instincts of others to achieve your goals."
+      },
+      {
+        "id": 27,
+        "reversed": true,
+        "numeral": "XIII",
+        "title": "The Mystic",
+        "image": "https://i.imgur.com/kaVN0uE.jpg",
+        "theme": "Indifference",
+        "description": "Feeling too intuitive and right can cause you to become cynical, if you believe you can predict others’ thoughts and behaviors. Don’t jump to conclusions based purely on instinct. If you give others room to prove themselves, they can surprise you."
+      },
+      {
+        "id": 28,
+        "reversed": false,
+        "numeral": "XIV",
+        "title": "The Blood Hunter",
+        "image": "https://i.imgur.com/qXueUGO.jpg",
+        "theme": "Sacrifice",
+        "description": "The misunderstood Blood Hunter sacrifices everything in order to pursue her own form of justice. Is your goal worth the pain and suffering you create for yourself?"
+      },
+      {
+        "id": 29,
+        "reversed": true,
+        "numeral": "XIV",
+        "title": "The Blood Hunter",
+        "image": "https://i.imgur.com/qXueUGO.jpg",
+        "theme": "Redemption",
+        "description": "If you have sacrificed any of your values to achieve your goals, seek atonement for your transgressions. Repair any of the boundaries that you have broken, especially if you have broken your own."
+      },
+      {
+        "id": 30,
+        "reversed": false,
+        "numeral": "XV",
+        "title": "The Artificer",
+        "image": "https://i.imgur.com/yXotwLH.jpg",
+        "theme": "Production",
+        "description": "The Artificer uses her innate ingenuity to create magic from mundane things in order to help others. Can you see a new use for something in your life that you may have overlooked before?"
+      },
+      {
+        "id": 31,
+        "reversed": true,
+        "numeral": "XV",
+        "title": "The Artificer",
+        "image": "https://i.imgur.com/yXotwLH.jpg",
+        "theme": "Destruction",
+        "description": "Progress should not come at the expense of morality. Be careful you do not use your intellect to harm others. You may feel powerful with your arsenal of weapons, but at the cost of peace with those around you."
+      },
+      {
+        "id": 32,
+        "reversed": false,
+        "numeral": "XVI",
+        "title": "The Ally",
+        "image": "https://i.imgur.com/WV1xb2B.jpg",
+        "theme": "Support",
+        "description": "Companionship can make even a difficult journey enjoyable. Find someone who is on the same quest as you, and use your alliance to your advantage."
+      },
+      {
+        "id": 33,
+        "reversed": true,
+        "numeral": "XVI",
+        "title": "The Ally",
+        "image": "https://i.imgur.com/WV1xb2B.jpg",
+        "theme": "Burden",
+        "description": "On your journey you may find yourself saddled with an inept companion who proves to be more of a burden than a helping hand. Your could jettison them and continue alone, or work to find a hidden strength you both may have overlooked."
+      },
+      {
+        "id": 34,
+        "reversed": false,
+        "numeral": "XVII",
+        "title": "The Companion",
+        "image": "https://i.imgur.com/HcU9QWo.jpg",
+        "theme": "Protection",
+        "description": "You have a stalwart Companion who fights alongside you on your journey. Recognize who they are, and let them know that you appreciate their support."
+      },
+      {
+        "id": 35,
+        "reversed": true,
+        "numeral": "XVII",
+        "title": "The Companion",
+        "image": "https://i.imgur.com/HcU9QWo.jpg",
+        "theme": "Insecurity",
+        "description": "Without proper nurturing and care, even the most special bonds can be broken. Do not take your relationship with your loyal Companion for granted, lest they retreat back to the wilderness to better care for themselves"
+      },
+      {
+        "id": 36,
+        "reversed": false,
+        "numeral": "XVIII",
+        "title": "The Familiar",
+        "image": "https://i.imgur.com/DGEssPg.jpg",
+        "theme": "Assistance",
+        "description": "There is someone important in your life who is with you every step of the way. It could be a person, a pet, or even yourself. Appreciating this individual is essential in your journey"
+      },
+      {
+        "id": 37,
+        "reversed": true,
+        "numeral": "XVIII",
+        "title": "The Familiar",
+        "image": "https://i.imgur.com/DGEssPg.jpg",
+        "theme": "Alter Ego",
+        "description": "Your magical Familiar is your trusted assistant, and it also takes the shape of what you see yourself as or who you secretly want to be. How can you use your alter ego to achieve your goals?"
+      },
+      {
+        "id": 38,
+        "reversed": false,
+        "numeral": "XIX",
+        "title": "The Beast",
+        "image": "https://i.imgur.com/A3sDEAu.jpg",
+        "theme": "Solidarity",
+        "description": "The pack is strongest when it is united. Whatever your fight is, seek harmony with yourself or others and use teamwork in order to prevail against all odds."
+      },
+      {
+        "id": 39,
+        "reversed": true,
+        "numeral": "XIX",
+        "title": "The Beast",
+        "image": "https://i.imgur.com/A3sDEAu.jpg",
+        "theme": "Solitary",
+        "description": "A lone wolf may be stronger and more intelligent, but without the help of a pack she will never be able to take down a serious adversary. You can retain your independence, but remember that you can turn to others for help, especially if the alliance is beneficial for all."
+      },
+      {
+        "id": 40,
+        "reversed": false,
+        "numeral": "XX",
+        "title": "The Dragon",
+        "image": "https://i.imgur.com/poQ2dmX.jpg",
+        "theme": "Abundance",
+        "description": "The Dragon symbolizes fertility and abundance. Take stock of the bounty that surrounds you and be grateful for what you have, for genuine appreciation will bring more good things into your life."
+      },
+      {
+        "id": 41,
+        "reversed": true,
+        "numeral": "XX",
+        "title": "The Dragon",
+        "image": "https://i.imgur.com/poQ2dmX.jpg",
+        "theme": "Starvation",
+        "description": "The Dragon compulsively hoards treasures, although she has no real use for her collection. If you are unwilling to share what you have, be it love, attention, or wealth, it will ultimately lead to unhappiness or even devastating loss."
+      },
+      {
+        "id": 42,
+        "reversed": false,
+        "numeral": "XXI",
+        "title": "The Undead",
+        "image": "https://i.imgur.com/5gFyl6v.jpg",
+        "theme": "Rebirth",
+        "description": "Death is inevitable. Embrace the change you are afraid of, and take the chance to start anew. You never know what new opportunities and adventures await you."
+      },
+      {
+        "id": 43,
+        "reversed": true,
+        "numeral": "XXI",
+        "title": "The Undead",
+        "image": "https://i.imgur.com/5gFyl6v.jpg",
+        "theme": "Purge",
+        "description": "Start over by releasing the control that your past has over you. You may be hesitant to let go of your past traumas because you believe they define you, but you are not your trauma and you are not your ego. Find out who you truly are in this present moment."
+      },
+      {
+        "id": 44,
+        "reversed": false,
+        "numeral": "XXII",
+        "title": "The Ooze",
+        "image": "https://i.imgur.com/U307G1L.jpg",
+        "theme": "Nurture",
+        "description": "Like water, the Ooze changes shape to fit any situation. Embrace your intuition and empathy, and let your emotions guide you. Don’t be afraid to feel and express your feelings, because they are valid."
+      },
+      {
+        "id": 45,
+        "reversed": true,
+        "numeral": "XXII",
+        "title": "The Ooze",
+        "image": "https://i.imgur.com/U307G1L.jpg",
+        "theme": "Engulfment",
+        "description": "If you are too empathetic and accommodating, you may feel overwhelmed. Remember that you should not take on everyone else’s problems, and that you need to care for yourself first and foremost."
+      },
+      {
+        "id": 46,
+        "reversed": false,
+        "numeral": "XXIII",
+        "title": "The Aberration",
+        "image": "https://i.imgur.com/j87GX06.jpg",
+        "theme": "Resistance",
+        "description": "Something stands in the way of your evolution. Be mindful of what is holding you back; are you clinging to old beliefs that no longer ring true? Are you waiting on someone else to change or make a decision?"
+      },
+      {
+        "id": 47,
+        "reversed": true,
+        "numeral": "XXIII",
+        "title": "The Aberration",
+        "image": "https://i.imgur.com/j87GX06.jpg",
+        "theme": "Surrender",
+        "description": "You might resist metamorphosis, but change is inevitable. Embrace your transformation and use this newfound perspective to your advantage in your endeavors. friendship with those around you."
+      },
+      {
+        "id": 48,
+        "reversed": false,
+        "numeral": "XXIV",
+        "title": "The Plant",
+        "image": "https://i.imgur.com/83SKbFP.jpg",
+        "theme": "Productivity",
+        "description": "The Plant epitomizes slow and steady growth. Hard work and responsibility yield a beautiful bounty if you put in the time and commitment. Trust in yourself that you are on the right path."
+      },
+      {
+        "id": 49,
+        "reversed": true,
+        "numeral": "XXIV",
+        "title": "The Plant",
+        "image": "https://i.imgur.com/83SKbFP.jpg",
+        "theme": "Snare",
+        "description": "If you are feeling entangled in your routine or too crowded to grow properly, feel free to break away and embrace spontaneity. Send your shoots out in search of new sources of light and fertile soils."
+      },
+      {
+        "id": 50,
+        "reversed": false,
+        "numeral": "XXV",
+        "title": "The Elemental",
+        "image": "https://i.imgur.com/hUABtHg.jpg",
+        "theme": "Completion",
+        "description": "The four Elements come together to celebrate the completion of a major goal in your life. Reflect positively upon what you have achieved, and be open to whatever exciting adventure comes next."
+      },
+      {
+        "id": 51,
+        "reversed": true,
+        "numeral": "XXV",
+        "title": "The Elemental",
+        "image": "https://i.imgur.com/hUABtHg.jpg",
+        "theme": "Closure",
+        "description": "You are struggling to let go of the past and move on. Channel the power of the Elements for help: Fire: Courage, Passion, Exercise. Water: Empathy, Peace, Self-Care. Air: Connection, Imagination, Meditation. Earth: Strength, Logic, Sustenance."
+      },
+      {
+        "id": 52,
+        "reversed": false,
+        "numeral": "XXVI",
+        "title": "The Construct",
+        "image": "https://i.imgur.com/OuaJBj9.jpg",
+        "theme": "Domination",
+        "description": "Use your inner power and courage to assert yourself. Define your boundaries, needs, and goals in order to achieve what you deserve. Have faith in yourself and all that you stand for."
+      },
+      {
+        "id": 53,
+        "reversed": true,
+        "numeral": "XXVI",
+        "title": "The Construct",
+        "image": "https://i.imgur.com/OuaJBj9.jpg",
+        "theme": "Submission",
+        "description": "If you are gripping the controls too tightly, your rigidity will cost you your freedom. Learn to let go, and let the automaton run its course. Appreciate your journey and the company of your fellow travelers."
+      },
+      {
+        "id": 54,
+        "reversed": false,
+        "numeral": "XXVII",
+        "title": "The Fey",
+        "image": "https://i.imgur.com/AXex9D4.jpg",
+        "theme": "Transformation",
+        "description": "The seasons change, and so will you. You are embarking on a journey of personal growth, so shed any negative beliefs or fears that hold you back; allow yourself the freedom to chase your dreams."
+      },
+      {
+        "id": 55,
+        "reversed": true,
+        "numeral": "XXVII",
+        "title": "The Fey",
+        "image": "https://i.imgur.com/AXex9D4.jpg",
+        "theme": "Reflection",
+        "description": "The Fey gazes at her starry reflection in the pond. Take the time to reconnect yourself and your goals. If you feel stagnant, renew your energy with a purification ritual; take a bath, go skinny dipping, or swim in a lake."
+      },
+      {
+        "id": 56,
+        "reversed": false,
+        "numeral": "XXVIII",
+        "title": "The Celestial",
+        "image": "https://i.imgur.com/Ji7VasI.jpg",
+        "theme": "Radiance",
+        "description": "The Celestial represents success and power, which radiate from you and draw others to your warm presence. Be steadfast in who you are and what you stand for, and your allies will rally behind you."
+      },
+      {
+        "id": 57,
+        "reversed": true,
+        "numeral": "XXVIII",
+        "title": "The Celestial",
+        "image": "https://i.imgur.com/Ji7VasI.jpg",
+        "theme": "Super Ego",
+        "description": "You feel guilt, shame, or like a failure due to rigid rules or values others have created for you. Spread your wings and break free from the shadowy clutches of your former captors; you don’t have to be the person they told you to be."
+      },
+      {
+        "id": 58,
+        "reversed": false,
+        "numeral": "XXIX",
+        "title": "The Humanoid",
+        "image": "",
+        "theme": "Perception",
+        "description": "The Humanoid seeks knowledge, and the truth, cutting through any nonsense to get to the heart of the matter. An unbiased and logical approach garners respect. Others may come to you for advice."
+      },
+      {
+        "id": 59,
+        "reversed": true,
+        "numeral": "XXIX",
+        "title": "The Humanoid",
+        "image": "",
+        "theme": "Egoism",
+        "description": "Realize that anything you experience is only seen through the lens of your own past. It is not possible to truly see things from another’s perspective. Just have compassion and hold space for others without passing judgement."
+      },
+      {
+        "id": 60,
+        "reversed": false,
+        "numeral": "XXX",
+        "title": "The Fiend",
+        "image": "https://i.imgur.com/EO1x0Ut.jpg",
+        "theme": "Darkness",
+        "description": "If you think you have lost control to addictions or negative thoughts, acknowledge your dire situation and shine your light on the Fiend. She will loosen her grip on you. It takes willpower and time to regain your freedom, but it is possible."
+      },
+      {
+        "id": 61,
+        "reversed": true,
+        "numeral": "XXX",
+        "title": "The Fiend",
+        "image": "https://i.imgur.com/EO1x0Ut.jpg",
+        "theme": "ID",
+        "description": "The delicious fruit of instant gratification is extremely appealing, but at times it is prudent to keep your priorities in check and refuse temptations that might cause you to stray from your path."
+      },
+      {
+        "id": 62,
+        "reversed": false,
+        "numeral": "XXXI",
+        "title": "The Giant",
+        "image": "https://i.imgur.com/yMsT2IA.jpg",
+        "theme": "Constitution",
+        "description": "Resilience is one of your greatest strengths. However, that is not to say that you are not sensitive as well. Don’t neglect your own wellbeing while you attempt to uphold your goals or values. Remember that you, too, can fall."
+      },
+      {
+        "id": 63,
+        "reversed": true,
+        "numeral": "XXXI",
+        "title": "The Giant",
+        "image": "https://i.imgur.com/yMsT2IA.jpg",
+        "theme": "Lethargy",
+        "description": "It’s good to take your time and mull over decisions if you have that luxury, but be careful not to take too long to make up your mind, lest smaller and faster creatures take advantage of your sluggishness."
+      },
+      {
+        "id": 64,
+        "reversed": false,
+        "numeral": "XXXII",
+        "title": "The Monstrosity",
+        "image": "https://i.imgur.com/jagUC6t.jpg",
+        "theme": "Transformation",
+        "description": "The Monstrosity signifies upheaval and chaos, an event that threatens to destroy your life as you know it, unless you view her through a different lens and accept the change as an experience to overcome and grow from."
+      },
+      {
+        "id": 65,
+        "reversed": true,
+        "numeral": "XXXII",
+        "title": "The Monstrosity",
+        "image": "https://i.imgur.com/jagUC6t.jpg",
+        "theme": "Petrification",
+        "description": "You are currently undergoing a personal transformation; however something is holding you back, old beliefs, fears, or opinions. Shed whatever is not working for you so that you can grow and evolve."
+      },
+      {
+        "id": 66,
+        "reversed": false,
+        "numeral": "XXXIII",
+        "title": "The Wild Oracle",
+        "image": "https://i.imgur.com/SOT9Pk5.jpg",
+        "theme": "Destiny",
+        "description": "Acknowledge that your destiny is in the hands of the Universe, and as much as you may try to control your life, there is no way to change it. Learn to be flexible and accept what Fate has to offer you."
+      },
+      {
+        "id": 67,
+        "reversed": true,
+        "numeral": "XXXIII",
+        "title": "The Wild Oracle",
+        "image": "https://i.imgur.com/SOT9Pk5.jpg",
+        "theme": "Luck",
+        "description": "Belief in good luck provides optimism and a better outlook on life. Believing you are unlucky leads to anxiety and hesitance to take advantage of opportunity. Why believe you have bad luck?"
+      },
+      {
+        "id": 68,
+        "reversed": false,
+        "numeral": "BH",
+        "title": "The Designer",
+        "image": "https://i.imgur.com/A3mH2BS.jpg",
+        "theme": "Compliment",
+        "description": "Give genuine compliments generously; they boost your own self-confidence and reinforce the self-esteem of your peers. Accept compliments gracefully and charm others with your positivity."
+      },
+      {
+        "id": 69,
+        "reversed": true,
+        "numeral": "BH",
+        "title": "The Designer",
+        "image": "https://i.imgur.com/A3mH2BS.jpg",
+        "theme": "Criticism",
+        "description": "We criticize others harshly for the things we most loathe about ourselves. If you find yourself becoming aggravated by someone else’s mistakes or actions, stop and consider if you are projecting your own shortcomings on your victim."
+      },
+      {
+        "id": 70,
+        "reversed": false,
+        "numeral": "TD",
+        "title": "The Developer",
+        "image": "https://i.imgur.com/a7jwae1.jpg",
+        "theme": "Analysis",
+        "description": "All the facts are right in front of you, waiting for an ocular inspection from your eyestalks. Use the problem to build a castle in your mind and use its halls to find the best path to solve the problem."
+      },
+      {
+        "id": 71,
+        "reversed": true,
+        "numeral": "TD",
+        "title": "The Developer",
+        "image": "https://i.imgur.com/a7jwae1.jpg",
+        "theme": "Escapism",
+        "description": "It’s easy to lose track of the outside world when you’re enjoying personal time in your private lair. Don’t forget to venture outside once in a while and reconnect with the rest of your party!"
+      },
+      {
+        "id": 72,
+        "reversed": false,
+        "numeral": "SP",
+        "title": "The Dungeon Mistress",
+        "image": "https://i.imgur.com/uQ6OBok.jpg",
+        "theme": "Creation",
+        "description": "The Dungeon Mistress is the Creator of infinite worlds. Tap into your creative powers and create the ideal outcome to your story."
+      },
+      {
+        "id": 73,
+        "reversed": true,
+        "numeral": "SP",
+        "title": "The Dungeon Mistress",
+        "image": "https://i.imgur.com/uQ6OBok.jpg",
+        "theme": "Judgement",
+        "description": "When you are in control of your dominion, be careful not to be too harsh to those who inhabit it. Use compassion and understanding in your judgement, for all humanoids are prone to making mistakes."
+      }    
 ]
