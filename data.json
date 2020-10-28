@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "numeral": "0",
+        "title": "The Bard",
+        "reversed": false,
+        "theme": "New Experiences",
+        "description": "The carefree Bard symbolizes the beginning of a new adventure. Perhaps you are learning something new, meeting new people, or looking at a challenge with a newfound perspective."
+    },
+    {
+        "id": 1,
+        "numeral": "0",
+        "title": "The Bard",
+        "reversed": true,
+        "theme": "Recklessness",
+        "description": "Now is the time to start something new, even if you are unsure of the outcome. Trust in your performance, but also take time to make sure that you are well prepared."
+    },
+    {
+        "id": 2,
+        "numeral": "I",
+        "title": "The Ranger",
+        "reversed": false,
+        "theme": "Self-Reliance",
+        "description": "The carefree Bard symbolizes the beginning of a new adventure. Perhaps you are learning something new, meeting new people, or looking at a challenge with a newfound perspective."
+    },
+    {
+        "id": 3,
+        "numeral": "I",
+        "title": "The Ranger",
+        "reversed": true,
+        "theme": "Isolation",
+        "description": "The carefree Bard symbolizes the beginning of a new adventure. Perhaps you are learning something new, meeting new people, or looking at a challenge with a newfound perspective."
+    }
+]
