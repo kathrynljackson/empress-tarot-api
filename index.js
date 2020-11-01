@@ -15,9 +15,9 @@ app.get('/', (req, res) => {
 
 app.get('/cards', (req, res) => {
     res.send(importData);
-    //console.log('app', app);
-    console.log('importData', importData);
-    consolelog('data', data)
+    //console.log('app', app); DO NOT USE
+    //console.log('importData', importData); GIVES ALL CARD OBJECTS
+    //console.log('data', data) DOESN'T SEEM TO DO ANYTHING?
 });
 
 app.get('/cards/:id', (req, res) => {
